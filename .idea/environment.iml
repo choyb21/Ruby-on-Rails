@@ -15,7 +15,6 @@
     <orderEntry type="library" scope="PROVIDED" name="actionview (v5.2.2, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activejob (v5.1.6, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v5.1.6, ruby-2.2.6-p396) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activemodel (v5.2.2, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v5.1.6, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v5.1.6, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v5.2.2, ruby-2.2.6-p396) [gem]" level="application" />
