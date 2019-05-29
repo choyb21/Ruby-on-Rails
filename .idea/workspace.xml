@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be9fed3e-8a17-43a1-8deb-76ac550d96f3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.bundle/config" beforeDir="false" afterPath="$PROJECT_DIR$/.bundle/config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/environment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/environment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello_app/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/toy_app" beforeDir="false" afterPath="$PROJECT_DIR$/toy_app" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +17,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sample_app/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="64" column="5" lean-forward="true" selection-start-line="54" selection-start-column="7" selection-end-line="64" selection-end-column="5" />
+            <state relative-caret-position="272">
+              <caret line="49" column="23" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -62,7 +59,7 @@
       <path value="$PROJECT_DIR$/hello_app/package.json" />
       <path value="$PROJECT_DIR$/sample_app/package.json" />
       <path value="$PROJECT_DIR$/toy_app/hello_app/package.json" />
-      <path value="$PROJECT_DIR$/toy_app/package.json" />
+      <path value="$PROJECT_DIR$/toy_app/sample_app/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -88,60 +85,6 @@
               <item name="environment" type="b2602c69:ProjectViewProjectNode" />
               <item name="environment" type="462c0819:PsiDirectoryNode" />
               <item name="sample_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="environment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="environment" type="462c0819:PsiDirectoryNode" />
-              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="environment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="environment" type="462c0819:PsiDirectoryNode" />
-              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="environment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="environment" type="462c0819:PsiDirectoryNode" />
-              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="environment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="environment" type="462c0819:PsiDirectoryNode" />
-              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="environment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="environment" type="462c0819:PsiDirectoryNode" />
-              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="environment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="environment" type="462c0819:PsiDirectoryNode" />
-              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="microposts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="environment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="environment" type="462c0819:PsiDirectoryNode" />
-              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="environment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="environment" type="462c0819:PsiDirectoryNode" />
-              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,16 +120,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559085096368</updated>
-      <workItem from="1559085097598" duration="6575000" />
+      <workItem from="1559085097598" duration="7099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6575000" />
+    <option name="totallyTimeSpent" value="7099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="15" width="1936" height="1216" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -330,8 +272,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sample_app/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="64" column="5" lean-forward="true" selection-start-line="54" selection-start-column="7" selection-end-line="64" selection-end-column="5" />
+        <state relative-caret-position="272">
+          <caret line="49" column="23" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
         </state>
       </provider>
     </entry>
